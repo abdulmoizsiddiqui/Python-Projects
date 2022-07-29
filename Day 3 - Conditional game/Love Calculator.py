@@ -34,4 +34,13 @@ print(f"E occurs {E} times")
 LOVE= L+O+V+E
 print(f"Total: {LOVE}")
 
-print("Love Score = " + str(TRUE) + str(LOVE))
+love_score = str(TRUE) + str(LOVE)
+love_score_int = int(love_score)
+print("Love Score = " + love_score )
+
+if love_score_int < 10 or love_score_int > 90:
+  print(f"Your Love Score is {love_score}. You go together like Coke and Mentos!")
+elif love_score_int < 50 and love_score_int > 40:
+  print(f"Your Love Score is {love_score}. You are alright together.")
+else:
+  print(f"Your score is {love_score}.")

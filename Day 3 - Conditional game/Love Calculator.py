@@ -43,4 +43,4 @@ if love_score_int < 10 or love_score_int > 90:
 elif love_score_int < 50 and love_score_int > 40:
   print(f"Your Love Score is {love_score}. You are alright together.")
 else:
-  print(f"Your score is {love_score}.") S
+  print(f"Your score is {love_score}.")

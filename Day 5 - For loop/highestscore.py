@@ -9,8 +9,8 @@ print(student_scores)
 
 
 highest_score =0
-for maxscore in student_scores:
-  if maxscore > highest_score:
-    highest_score = maxscore
+for score in student_scores:
+  if score > highest_score:
+    highest_score = score
 
 print(highest_score)

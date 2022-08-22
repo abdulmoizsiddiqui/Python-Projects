@@ -1,2 +1,2 @@
-#calculate randomness
+#plus
 #calculator

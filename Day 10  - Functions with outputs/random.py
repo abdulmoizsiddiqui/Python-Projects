@@ -1,2 +1,1 @@
-#plus
-#calculator
+#delete#

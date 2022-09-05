@@ -15,4 +15,4 @@ logo = """
 |_____________________|
 """
 
-#artspychartconfuse
+#artistrophy

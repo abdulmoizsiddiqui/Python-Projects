@@ -27,4 +27,4 @@ while not bidding_finished:
   elif should_continue == "yes":
     clear()
   
-#replitit
+#s

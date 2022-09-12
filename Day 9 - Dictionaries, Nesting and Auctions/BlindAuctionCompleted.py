@@ -1,4 +1,3 @@
-from replit import clear
 from art import logo
 print(logo)
 
@@ -27,4 +26,9 @@ while not bidding_finished:
   elif should_continue == "yes":
     clear()
   
-#s
+
+
+# """def Parent():
+#   print("this is a parent class")
+
+# Parent()"""

@@ -31,4 +31,5 @@ while not bidding_finished:
 # """def Parent():
 #   print("this is a parent class")
 # Adding a parent class here
-# Parent()"""
+# Parent()"""'
+#Linear Regression

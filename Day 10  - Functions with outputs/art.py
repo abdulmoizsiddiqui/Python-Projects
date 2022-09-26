@@ -15,4 +15,4 @@ logo = """
 |_____________________|
 """
 
-#artistrophy-12
+#artistrophy

@@ -22,7 +22,7 @@ word_list = [
 'boxful', 
 'buckaroo', 
 'buffalo', 
-'buffoon', 
+'buffoon',
 'buxom', 
 'buzzard', 
 'buzzing', 

@@ -19,3 +19,4 @@ split_bill= float(total_bill)/float(people)
 final_bill= round(split_bill, 2)
 final_bill= "{:.2f}".format(split_bill)
 print(f"Each person pays {final_bill}")
+#

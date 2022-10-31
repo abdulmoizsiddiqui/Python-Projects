@@ -10,5 +10,3 @@ print(BMI)
 BMI_as_int= int(BMI)
 print(BMI_as_int)
 
-#FloatBMI-
-

@@ -6,5 +6,3 @@ BMI = float(weight)/float(height)**2
 print(BMI)
 BMI_as_int= int(BMI)
 print(BMI_as_int)
-
-#s

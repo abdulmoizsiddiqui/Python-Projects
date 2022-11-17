@@ -1,15 +1,16 @@
-x = input()
-y = input()
+starting_position = int(input('Please enter the starting range: \n'))
+ending_position = int(input('Please enter the ending range: \n'))
 
-print('The value of x is {}'.format(x))
-print('The value of y is {}'.format(y))
+if ending_position < starting_position:
 
-# swapping the values
-temp_var = x
-x = y
-y = temp_var
+    # swapping the values
+    swap = starting_position
+    starting_position = ending_position
+    ending_position = swap
 
-print('The value of x after swapping is {}'.format(x))
-print('The value of y after swapping is {}'.format(y))
+    # print(starting_position)
+    # print(ending_position)
 
-#end
+    for i in range (starting_position, ending_position + 1):
+        i % 2 == 0
+        print(i)

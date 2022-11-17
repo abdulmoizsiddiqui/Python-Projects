@@ -8,9 +8,10 @@ if ending_position < starting_position:
     starting_position = ending_position
     ending_position = swap
 
-    # print(starting_position)
-    # print(ending_position)
-
     for i in range (starting_position, ending_position + 1):
-        i % 2 == 0
-        print(i)
+        if i % 2 == 0:
+            print(i)
+elif ending_position > starting_position:
+       for i in range (starting_position, ending_position + 1):
+        if i % 2 == 0:
+            print(i)

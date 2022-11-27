@@ -1,19 +1,18 @@
-choice= input("Choose what function you want me to perform:")
-exit= False
+exit_keyword= "exit"
+user_input= input("Choose what function you want me to perform:")
 
-if choice == '1':
+if user_input == '1':
     print("Hello:")
-elif choice == '2':
-    print("This is second choice")
-elif choice == '3':
-    print("This is the third choice")
-elif choice == '4':
-    print("This the 4th choice")
-elif choice == '5':
-    print("This is 5th choice")
+elif user_input == '2':
+    print("This is second user_input")
+elif user_input == '3':
+    print("This is the third user_input")
+elif user_input == '4':
+    print("This the 4th user_input")
+elif user_input == '5':
+    print("This is 5th user_input")
 else:
-    print("You chose an invalid choice")
+    print("You chose an invalid user_input")
 
-while choice != 'exit':
-    print("Do you want to perform another task?")
-    choice= input("Choose what function you want me to perform:")
+while user_input != 'exit_keyword':
+    print("You have sucesfully exited the  program!")

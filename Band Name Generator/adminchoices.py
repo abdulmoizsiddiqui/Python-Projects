@@ -5,3 +5,5 @@ if choice == 1:
     print("Hello:")
 elif choice == 2:
     print("This is second choice")
+elif choice == 3:
+    print("This is the third choice")

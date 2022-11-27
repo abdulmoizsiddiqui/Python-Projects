@@ -16,4 +16,3 @@ else:
 
 while user_input != exit_keyword:
     print("You have sucesfully exited the  program!")   
-#fixit

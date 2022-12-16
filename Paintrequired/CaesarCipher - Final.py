@@ -44,6 +44,3 @@ while not should_end:
     should_end = True
     print("Goodbye")
     
-
-
-#Final

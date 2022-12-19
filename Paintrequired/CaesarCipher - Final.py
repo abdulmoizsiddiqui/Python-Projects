@@ -43,4 +43,3 @@ while not should_end:
   if restart == "no":
     should_end = True
     print("Goodbye")
-  #
